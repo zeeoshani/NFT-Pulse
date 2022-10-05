@@ -1,0 +1,29 @@
+/*font*/
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+@import "variables";
+// Profile styling
+@import "scss/profile";
+// Create Options styling
+//@import "scss/createOption";
+// Detail page
+@import "scss/nftdetail";
+
+// Extra Pages
+@import "scss/contact";
+@import "scss/news";
+@import "scss/helpcenter";
+@import "scss/search-page";
+@import "scss/ranking";
+// Extra Pages
+
+// Extra Elements
+@import "scss/switch";
+@import "scss/tabs";
+
+// Popups
+@import "scss/popups/popup";
+@import "scss/popups/createNft";
+// Responsive
+@import "scss/responsive";
